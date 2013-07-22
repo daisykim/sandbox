@@ -1,0 +1,6 @@
+getData(
+  {
+    name: "daisy",
+    age: 32
+  }
+);
